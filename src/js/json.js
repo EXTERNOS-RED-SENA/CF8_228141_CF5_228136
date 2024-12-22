@@ -15,22 +15,22 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Fundamentos de la Programación Orientada a Objetos	',
+        titulo: 'Construcción de <i>datasets</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Introducción al paradigma orientado a objetos	',
+            titulo: 'Requerimientos y diseño',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Clases y objetos: conceptos básicos	',
+            titulo: 'Técnicas de recolección',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Atributos, métodos y encapsulamiento',
+            titulo: 'Control de calidad',
             hash: 't_1_3',
           },
         ],
@@ -39,50 +39,45 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Principios de diseño orientado a objetos	',
+        titulo: 'Tratamiento de sesgos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Herencia y polimorfismo	',
+            titulo: 'Tipos de sesgos',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Composición y agregación',
+            titulo: 'Técnicas de detección',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Principios SOLID en POO	',
+            titulo: 'Métodos de corrección',
             hash: 't_2_3',
-          },
-          {
-            numero: '2.4',
-            titulo: 'Del diseño a la implementación: consideraciones prácticas	',
-            hash: 't_2_4',
           },
         ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Modelado y diseño UML	',
+        titulo: 'Segmentación de datos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Diagramas de clases UML',
+            titulo: 'Conjuntos de entrenamiento y prueba',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Relaciones entre clases',
+            titulo: 'Validación cruzada',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Herramientas CASE para modelado',
+            titulo: 'Estrategias de muestreo',
             hash: 't_3_3',
           },
         ],
@@ -90,22 +85,22 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Patrones y arquitectura orientada a objetos',
+        titulo: 'Preparación para modelos',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Patrones de diseño fundamentales',
+            titulo: 'Escalamiento y normalización',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Arquitectura limpia con POO',
+            titulo: 'Codificación de variables',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Implementación práctica de modelos',
+            titulo: 'Selección de características',
             hash: 't_4_3',
           },
         ],
@@ -142,7 +137,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/228136_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -157,24 +152,12 @@ export default {
     ],
   },
   global: {
-    Name: 'Programación orientada a objetos: conceptos y modelado',
+    Name:
+      'Preparación y modelado de datos para algoritmos de <i>machine learning</i>',
     Description:
-      'Este componente formativo aborda los fundamentos y prácticas de la programación orientada a objetos, explorando desde conceptos básicos hasta patrones de diseño avanzados. Cubre principios SOLID, modelado UML y arquitectura de software, proporcionando las herramientas necesarias para diseñar y desarrollar sistemas robustos y mantenibles bajo el paradigma orientado a objetos.',
+      'Este componente aborda las técnicas y metodologías para la preparación y modelado de datos en contextos de <i>machine learning</i>. Explora desde la construcción inicial de <i>datasets</i> hasta la preparación final para el entrenamiento de modelos, incluyendo el tratamiento de sesgos y estrategias de segmentación. Proporciona herramientas fundamentales para garantizar la calidad y efectividad de los datos en proyectos de IA.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/a1.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/a2.png'),
-      },
-      {
-        clases: ['banner-principal-decorativo-3'],
-        imagen: require('@/assets/curso/portada/a3.png'),
-      },
-    ],
+    imagenesDecorativasBanner: [],
   },
 }

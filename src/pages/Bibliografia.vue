@@ -23,78 +23,57 @@ export default {
     referencias: [
       {
         referencia:
-          'Blanco, P., & Sánchez, J. (2023). Fundamentos de la programación orientada a objetos con Java. Ra-Ma Editorial.',
-        link: '',
+          'Alfonso Jaramillo, M. C. (2019). Consideraciones para el diseño de instrumentos de recolección de datos. Recuperado de ',
+        link:
+          'https://acei.co/wp-content/uploads/2019/10/Webinar-ACEI-Dise%C3%B1o-intrumentos-para-recolecci%C3%B3n-de-datos.pdf',
       },
       {
         referencia:
-          'Ceballos, F. J. (2022). Programación orientada a objetos con C++. Ra-Ma Editorial.',
-        link: '',
+          'ATLAS.ti. (s.f.). Guía exhaustiva sobre el sesgo en la investigación. Recuperado de ',
+        link:
+          'https://atlasti.com/es/guias/guia-investigacion-cualitativa-parte-1/sesgo',
       },
       {
         referencia:
-          'Deitel, P., & Deitel, H. (2024). Java How to Program (12th ed.). Pearson Education.',
-        link: '',
+          'Cepal. (2020). Recomendaciones para eliminar el sesgo de selección en las encuestas de hogares en el contexto de la pandemia de COVID-19. Recuperado de ',
+        link:
+          'https://repositorio.cepal.org/bitstream/handle/11362/45552/1/S2000316_es.pdf',
       },
       {
         referencia:
-          'Freeman, E., Robson, E., Sierra, K., & Bates, B. (2022). Head First Design Patterns (3rd ed.). O&#39;Reilly Media.',
-        link: '',
+          'Emanuelli, P. B. (s.f.). Selección de técnicas: Técnicas de recolección de datos. Criterios para la selección de técnicas de recolección de datos. Recuperado de ',
+        link:
+          'https://www.academia.edu/30424818/CAP_1_SELECCI%C3%93N_DE_T%C3%89CNICAS_T%C3%89CNICAS_DE_RECOLECCI%C3%93N_DE_DATOS_CRITERIOS_PARA_LA_SELECCI%C3%93N_DE_T%C3%89CNICAS_DE_RECOLECCI%C3%93N_DE_DATOS',
       },
       {
         referencia:
-          'Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (2023). Design Patterns: Elements of Reusable Object-Oriented <em>Software</em> (Anniversary ed.). Addison-Wesley Professional.',
-        link: '',
+          'Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC). (2020). Norma Técnica de la Calidad del Proceso Estadístico (NTC PE 1000:2020). Recuperado de ',
+        link:
+          'https://www.funcionpublica.gov.co/documents/34645357/0/NTC%2BPE%2B1000-2020%2B%281%29.pdf/35f0fc27-cba3-d396-4dc2-639f33969199?t=1635181030263',
       },
       {
         referencia:
-          'García, A., & Martínez, C. (2023). UML: Modelado de software para profesionales. Alfaomega.',
-        link: '',
+          'Meléndez, J. (2019). Técnicas de recolección de datos: ejemplos y guía paso a paso. Recuperado de ',
+        link:
+          'https://reisdigital.es/datos-e-informacion/tecnicas-de-recoleccion-de-datos-ejemplos/',
       },
       {
         referencia:
-          'Larman, C. (2022). Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design (4th ed.). Pearson Education.',
-        link: '',
+          'Ministerio de Ciencia, Tecnología e Innovación de Colombia. (2021). Guía para la gestión de datos de investigación. Recuperado de ',
+        link:
+          'https://minciencias.gov.co/sites/default/files/upload/noticias/guia_gestion_de_datos_redcolombianadeic_1.pdf',
       },
       {
         referencia:
-          'López, J. M., & Montero, F. (2024). Patrones de diseño en Java: Una guía práctica. Universidad de Castilla-La Mancha.',
-        link: '',
+          'Ministerio de Ciencia, Tecnología e Innovación de Colombia. (s.f.). Diseño de un Plan de Gestión de Datos de Investigación (PGDI). Recuperado de ',
+        link:
+          'https://red-documentacion.minciencias.gov.co/Gestion_Datos_Investigacion/Gu%C3%ADa-PGDI',
       },
       {
         referencia:
-          'Martin, R. C. (2023). Clean Architecture: A Craftsman&#39;s Guide to Software Structure and Design. Prentice Hall.',
-        link: '',
-      },
-      {
-        referencia:
-          'Martin, R. C. (2021). Agile <em<Software Development</em>, Principles, Patterns, and Practices (2nd ed.). Pearson Education.',
-        link: '',
-      },
-      {
-        referencia:
-          'Méndez, A. (2023). Principios SOLID explicados: Una guía práctica con ejemplos en Python. Marcombo.',
-        link: '',
-      },
-      {
-        referencia:
-          'Phillips, D. (2024). Python 3 Object-Oriented Programming (4th ed.). Packt Publishing.',
-        link: '',
-      },
-      {
-        referencia:
-          'Sánchez, G. (2022). Programación orientada a objetos: Un enfoque práctico. Universidad Nacional Autónoma de México.',
-        link: '',
-      },
-      {
-        referencia:
-          'Torres, R., & Velázquez, P. (2023). Modelado UML con ejemplos prácticos. Alfaomega.',
-        link: '',
-      },
-      {
-        referencia:
-          'Valdés-Miranda, C., & Rodríguez, P. (2024). Diseño y programación orientada a objetos: Una perspectiva práctica. Anaya Multimedia.',
-        link: '',
+          'Restrepo, D., & Restrepo, M. (2004). Sesgos en diseños analíticos. Revista Colombiana de Psiquiatría, 33(3), 290-297. Recuperado de ',
+        link:
+          'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74502004000300007',
       },
     ],
   }),

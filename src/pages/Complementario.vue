@@ -59,88 +59,54 @@ export default {
     complementarioData() {
       return [
         {
-          tema: '1. Fundamentos de la Programación Orientada a Objetos',
+          tema: 'El algoritmo ideal',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023, mayo 10). <em>Programación orientada a objetos</em>.',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023c, octubre 10). El algoritmo ideal.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=TE0TKx9dEtI',
+          link: 'https://www.youtube.com/watch?v=ZgkwSKyGpnY',
         },
         {
-          tema: '1. Fundamentos de la Programación Orientada a Objetos',
+          tema: '¿Qué es <i>Machine learning</i>?',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). Abstracción: <em>Paradigma orientado a objetos.</em> ',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2020, 13 septiembre). ¿Qué es Machine learning?',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=91N3L3mEGqo',
+          link: 'https://www.youtube.com/watch?v=J9w6KquPKbE',
         },
         {
-          tema: '2. Principios de diseño orientado a objetos',
+          tema: 'Introducción al <i>Machine learning</i>',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). <em>Clases y objetos.</em>',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023a, septiembre 15). Introducción al <i>machine learning.</i>',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=gVH6zEnCY1c',
+          link: 'https://www.youtube.com/watch?v=xwjQmGJ3q0I',
         },
         {
-          tema: '2. Principios de diseño orientado a objetos',
+          tema: '<i>Machine learning</i> con Python',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2020, 23 junio). <em>Jerarquía.</em>',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023c, octubre 10). Machine learning con Python.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=39VJptW7jQo',
+          link: 'https://www.youtube.com/watch?v=noMy4-zjR9Q',
         },
         {
-          tema: '3. Modelado y diseño UML',
+          tema: 'Modelos y metodologías de analítica',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2024, 3 abril). <em>Descarga e instalación de herramienta CASE MySQL Workbench.</em>',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023e, marzo 27). Modelos y metodologías de analítica.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=nQ0FWBJbbi0',
+          link: 'https://www.youtube.com/watch?v=96pohadjEWE ',
         },
         {
-          tema: '3. Modelado y diseño UML',
+          tema: 'Análisis exploratorio de datos',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 27). <em>Diagramas de Secuencia UML.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=HKbL1bWenIY',
+            'Limpiar datos de Excel, CSV, PDF y Hojas de cálculo de Google con el intérprete de datos. (s. f.). Tableau.',
+          tipo: 'Portal web',
+          link:
+            'https://help.tableau.com/current/pro/desktop/es-es/data_interpreter.htm ',
         },
         {
-          tema: '3. Modelado y diseño UML',
+          tema: 'Definición de pandas',
           referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 26). <em>UML.</em> ',
+            'Ecosistema de Recursos Educativos Digitales SENA. (2023b, septiembre 20). Definición de pandas.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=gVt_zU_E8wY',
-        },
-        {
-          tema: '3. Modelado y diseño UML',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2023, marzo 25). <em>Diagrama de casos de uso.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=yQSmLldIpNo',
-        },
-        {
-          tema: '3. Modelado y diseño UML',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, julio 1). <em>Diagramas de clase: StarUML.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=fPbUqr49DYU',
-        },
-        {
-          tema: '3. Modelado y diseño UML',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, noviembre 24). <em>Diagrama de componentes.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=sp8APOAyTfk',
-        },
-        {
-          tema: '4. Patrones y arquitectura orientada a objetos',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, diciembre 10). <em>Patrones de diseño de software.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=ZufBcrlUqak',
-        },
-        {
-          tema: '4. Patrones y arquitectura orientada a objetos',
-          referencia:
-            'Ecosistema de Recursos Educativos Digitales SENA. (2021, noviembre 26). <em>Diseño de patrones de software: introducción.</em>',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=sQHRHhsRUoA ',
+          link: 'https://www.youtube.com/watch?v=W48LYsToQHQ',
         },
       ]
     },

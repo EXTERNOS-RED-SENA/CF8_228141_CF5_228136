@@ -37,79 +37,104 @@ export default {
     return {
       glosarioData: [
         {
-          termino: 'Abstracción',
+          termino: '<i>Bias</i> (Sesgo)',
           significado:
-            'Proceso de identificar características esenciales de un objeto, ignorando los detalles no relevantes',
+            'Desviación sistemática en los datos que puede llevar a resultados injustos o poco representativos en los modelos de <i>machine learning.</i>',
         },
         {
-          termino: 'Clase',
+          termino: '<i>Cross-validation</i>',
           significado:
-            'Plantilla o modelo que define las propiedades y comportamientos de un tipo de objeto',
+            'Técnica de evaluación que divide los datos en múltiples subconjuntos para validar el rendimiento del modelo de manera más robusta.',
         },
         {
-          termino: 'Composición',
+          termino: '<i>Dataset</i>',
           significado:
-            'Relación fuerte entre clases donde una clase contiene a otra y es responsable de su ciclo de vida',
+            'Conjunto estructurado de datos organizados para su uso en entrenamiento y evaluación de modelos de <i>machine learning.</i>',
         },
         {
-          termino: 'Encapsulamiento',
+          termino: '<i>Data splitting</i>',
           significado:
-            'Principio que oculta los detalles internos de una clase y expone solo lo necesario',
+            'Proceso de dividir un conjunto de datos en subconjuntos para entrenamiento, validación y prueba de modelos.',
         },
         {
-          termino: 'Herencia',
+          termino: '<i>Feature engineering</i>',
           significado:
-            'Mecanismo que permite a una clase heredar propiedades y métodos de otra clase',
+            'Proceso de selección, creación y transformación de variables para optimizar el rendimiento de modelos de <i>machine learning.</i>',
         },
         {
-          termino: 'Interfaz',
+          termino: '<i>Feature scaling</i>',
           significado:
-            'Contrato que especifica qué métodos debe implementar una clase',
+            'Proceso de normalizar o estandarizar variables numéricas para que estén en rangos comparables.',
         },
         {
-          termino: 'Método',
+          termino: '<i>Hold-out set</i>',
           significado:
-            'Función que define el comportamiento de los objetos de una clase',
+            'Conjunto de datos reservado para la evaluación final del modelo, que no se utiliza durante el entrenamiento.',
         },
         {
-          termino: 'Objeto',
+          termino: '<i>Imbalanced data</i>',
           significado:
-            'Instancia específica de una clase que contiene datos y comportamiento',
+            'Situación donde las clases en un conjunto de datos no están representadas equitativamente.',
         },
         {
-          termino: 'Patrón de Diseño',
+          termino: '<i>Missing values</i>',
           significado:
-            'Solución reutilizable a un problema común en el diseño de <em>software</em>',
+            'Datos faltantes en un conjunto de datos que requieren tratamiento especial antes del modelado.',
         },
         {
-          termino: 'Polimorfismo',
+          termino: 'Normalización',
           significado:
-            'Capacidad de un objeto para tomar diferentes formas y responder de manera distinta al mismo mensaje',
+            'Técnica para ajustar valores numéricos a una escala común, típicamente entre 0 y 1.',
         },
         {
-          termino: 'Principios SOLID',
+          termino: '<i>One-hot encoding</i>',
           significado:
-            'Conjunto de cinco principios fundamentales para el diseño orientado a objetos',
+            'Técnica para convertir variables categóricas en formato binario para su uso en modelos de <i>machine learning.</i>',
         },
         {
-          termino: 'Refactorización',
+          termino: '<i>Outliers</i>',
           significado:
-            'Proceso de reestructurar código existente sin cambiar su comportamiento externo',
+            'Valores atípicos que se desvían significativamente del patrón general de los datos.',
         },
         {
-          termino: 'UML',
+          termino: '<i>Sampling strategy</i>',
           significado:
-            'Lenguaje Unificado de Modelado, utilizado para visualizar y documentar sistemas de <em>software</em>',
+            'Método utilizado para seleccionar subconjuntos representativos de datos para entrenamiento y validación.',
         },
         {
-          termino: 'Visibilidad',
+          termino: '<i>Selection bias</i>',
           significado:
-            'Nivel de acceso que tienen otros objetos a los miembros de una clase',
+            'Sesgo que ocurre cuando la selección de datos no es aleatoria o representativa de la población objetivo.',
         },
         {
-          termino: 'CASE',
+          termino: '<i>Standardization</i>',
           significado:
-            'Herramientas de Ingeniería de <em>Software</em> Asistida por Computadora para el diseño y modelado',
+            'Proceso de transformar variables para que tengan media cero y desviación estándar unitaria.',
+        },
+        {
+          termino: '<i>Test set</i>',
+          significado:
+            'Conjunto de datos utilizado para evaluar el rendimiento final del modelo entrenado.',
+        },
+        {
+          termino: '<i>Training set</i>',
+          significado:
+            'Conjunto de datos utilizado para entrenar el modelo de <i>machine learning.</i>',
+        },
+        {
+          termino: '<i>Validation set</i>',
+          significado:
+            'Conjunto de datos utilizado para ajustar hiperparámetros y evaluar el modelo durante el desarrollo.',
+        },
+        {
+          termino: 'Variable <i>encoding</i>',
+          significado:
+            'Proceso de convertir variables categóricas en formato numérico para su uso en modelos.',
+        },
+        {
+          termino: '<i>Z-score</i>',
+          significado:
+            'Medida estadística que indica cuántas desviaciones estándar se aleja un valor de la media.',
         },
       ],
     }
